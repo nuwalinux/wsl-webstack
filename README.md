@@ -77,7 +77,7 @@ EXIT;
 
 ### 8. Create Test PHP File
 ```bash
-sudo nano /var/www/html/dbtest.php
+sudo vi /var/www/html/dbtest.php
 ```
 Paste the following code:
 ```php
